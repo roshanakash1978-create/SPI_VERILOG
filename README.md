@@ -26,4 +26,5 @@ Integrated Testbench: Includes $dumpfile / $dumpvars execution for waveform outp
                |                   |<------- MISO -------|                  |
                +-------------------+                     +------------------+
 
+<img width="1890" height="512" alt="Screenshot 2026-08-01 214916" src="https://github.com/user-attachments/assets/4167644f-dea8-4dc3-b556-06c8ae491e7d" />
                
